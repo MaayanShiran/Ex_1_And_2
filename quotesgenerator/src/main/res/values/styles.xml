@@ -1,0 +1,13 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <style name="CustomTextViewStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/bluetea</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:padding">16dp</item>
+        <item name="android:fontFamily">@font/bluetea</item>
+    </style>
+</resources>

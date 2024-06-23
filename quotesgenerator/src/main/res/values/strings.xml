@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuotesGenerator</string>
+    <string-array name="dropdown_items">
+        <item>Random</item>
+        <item>Inspiration</item>
+        <item>Love</item>
+        <item>Friendship</item>
+        <item>Wisdom</item>
+    </string-array>
+</resources>

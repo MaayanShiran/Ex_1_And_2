@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jokesgenerator</string>
+        <string-array name="dropdown_items">
+            <item>Random</item>
+            <item>Doctor</item>
+            <item>Knock-Knock</item>
+            <item>Light-Bulb</item>
+            <item>Animals</item>
+        </string-array>
+
+</resources>
